@@ -1,0 +1,8 @@
+[
+    "logistic_regression",
+    "knn",
+    "svm",
+    "mlp",
+    "random_forest",
+    "xgboost"
+]

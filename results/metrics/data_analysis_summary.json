@@ -1,0 +1,20 @@
+{
+    "total_rows": 13611,
+    "total_columns": 17,
+    "feature_count": 16,
+    "target_column": "Class",
+    "standard_classes": [
+        "BARBUNYA",
+        "BOMBAY",
+        "CALI",
+        "DERMASON",
+        "HOROZ",
+        "SEKER",
+        "SIRA"
+    ],
+    "raw_files": {
+        "train": "data\\raw\\Dry_Bean_Dataset_Dirty_train.csv",
+        "val": "data\\raw\\Dry_Bean_Dataset_Dirty_val.csv",
+        "test": "data\\raw\\Dry_Bean_Dataset_Dirty_test.csv"
+    }
+}

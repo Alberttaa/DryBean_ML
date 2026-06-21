@@ -1,0 +1,4 @@
+﻿dataset,rows,columns,duplicated_rows,area_non_positive,label_pollution_count,perimeter_missing,solidity_missing
+train,9527,17,21,0,116,469,474
+val,1347,17,0,11,16,62,63
+test,2737,17,0,19,39,146,121

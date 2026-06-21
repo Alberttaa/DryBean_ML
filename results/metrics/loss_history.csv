@@ -1,0 +1,665 @@
+﻿model,epoch,dataset,loss_type,loss
+Logistic Regression,1,train,log_loss,0.7403296143594879
+Logistic Regression,1,val,log_loss,0.7171663797321673
+Logistic Regression,2,train,log_loss,0.5320010131800003
+Logistic Regression,2,val,log_loss,0.4575312489519366
+Logistic Regression,3,train,log_loss,0.5233994761690631
+Logistic Regression,3,val,log_loss,0.47668706738255645
+Logistic Regression,4,train,log_loss,0.4116531068758257
+Logistic Regression,4,val,log_loss,0.38256217113974716
+Logistic Regression,5,train,log_loss,0.38287126812399125
+Logistic Regression,5,val,log_loss,0.36768581229598074
+Logistic Regression,6,train,log_loss,0.3692947516682332
+Logistic Regression,6,val,log_loss,0.32753646697615013
+Logistic Regression,7,train,log_loss,0.3123494857105477
+Logistic Regression,7,val,log_loss,0.30035818383071816
+Logistic Regression,8,train,log_loss,0.3045821717670581
+Logistic Regression,8,val,log_loss,0.28815750837593757
+Logistic Regression,9,train,log_loss,0.3074337697117595
+Logistic Regression,9,val,log_loss,0.2874379783634929
+Logistic Regression,10,train,log_loss,0.3012208045152855
+Logistic Regression,10,val,log_loss,0.2760343127165663
+Logistic Regression,11,train,log_loss,0.27910964604187455
+Logistic Regression,11,val,log_loss,0.26741224270862346
+Logistic Regression,12,train,log_loss,0.2831388187518042
+Logistic Regression,12,val,log_loss,0.2635682736539939
+Logistic Regression,13,train,log_loss,0.26973728090314125
+Logistic Regression,13,val,log_loss,0.26069514538305616
+Logistic Regression,14,train,log_loss,0.28315319515369924
+Logistic Regression,14,val,log_loss,0.25937231230479624
+Logistic Regression,15,train,log_loss,0.2655585007114893
+Logistic Regression,15,val,log_loss,0.25522213248837666
+Logistic Regression,16,train,log_loss,0.26308049199479494
+Logistic Regression,16,val,log_loss,0.25022118420245004
+Logistic Regression,17,train,log_loss,0.2656998418596661
+Logistic Regression,17,val,log_loss,0.25887728729312365
+Logistic Regression,18,train,log_loss,0.2664158133677517
+Logistic Regression,18,val,log_loss,0.26389704570281763
+Logistic Regression,19,train,log_loss,0.265242934612275
+Logistic Regression,19,val,log_loss,0.25642598128615857
+Logistic Regression,20,train,log_loss,0.2646793911748611
+Logistic Regression,20,val,log_loss,0.25430159720511375
+Logistic Regression,21,train,log_loss,0.26268266371928506
+Logistic Regression,21,val,log_loss,0.2565432679089237
+Logistic Regression,22,train,log_loss,0.26432675046315157
+Logistic Regression,22,val,log_loss,0.25889107390626054
+Logistic Regression,23,train,log_loss,0.25505294855008726
+Logistic Regression,23,val,log_loss,0.2490268680784705
+Logistic Regression,24,train,log_loss,0.25799283297162556
+Logistic Regression,24,val,log_loss,0.2518282012669071
+Logistic Regression,25,train,log_loss,0.2769785273799821
+Logistic Regression,25,val,log_loss,0.26906242857515095
+Logistic Regression,26,train,log_loss,0.2595634401324967
+Logistic Regression,26,val,log_loss,0.2598382680952722
+Logistic Regression,27,train,log_loss,0.2567899236260641
+Logistic Regression,27,val,log_loss,0.25341363416591167
+Logistic Regression,28,train,log_loss,0.25911862118553775
+Logistic Regression,28,val,log_loss,0.2510478944680153
+Logistic Regression,29,train,log_loss,0.25668519235666365
+Logistic Regression,29,val,log_loss,0.2522803404066614
+Logistic Regression,30,train,log_loss,0.2602878002237409
+Logistic Regression,30,val,log_loss,0.25954543047175266
+Logistic Regression,31,train,log_loss,0.2534954545101465
+Logistic Regression,31,val,log_loss,0.2523619404518168
+Logistic Regression,32,train,log_loss,0.25261365491905896
+Logistic Regression,32,val,log_loss,0.24841416249915352
+Logistic Regression,33,train,log_loss,0.2584109668198922
+Logistic Regression,33,val,log_loss,0.2562331356930792
+Logistic Regression,34,train,log_loss,0.25474796349550893
+Logistic Regression,34,val,log_loss,0.2519735187751689
+Logistic Regression,35,train,log_loss,0.26005065824849194
+Logistic Regression,35,val,log_loss,0.2574775487528673
+Logistic Regression,36,train,log_loss,0.258126070807496
+Logistic Regression,36,val,log_loss,0.2563390784627018
+Logistic Regression,37,train,log_loss,0.2505604355081827
+Logistic Regression,37,val,log_loss,0.2484717610712764
+Logistic Regression,38,train,log_loss,0.25360936214449353
+Logistic Regression,38,val,log_loss,0.25094456082780203
+Logistic Regression,39,train,log_loss,0.2548468721617714
+Logistic Regression,39,val,log_loss,0.252320624442186
+Logistic Regression,40,train,log_loss,0.2535937600974485
+Logistic Regression,40,val,log_loss,0.2502860461976445
+Logistic Regression,41,train,log_loss,0.25426320636693095
+Logistic Regression,41,val,log_loss,0.25101998870549463
+Logistic Regression,42,train,log_loss,0.2541857423168145
+Logistic Regression,42,val,log_loss,0.25197771808042985
+Logistic Regression,43,train,log_loss,0.2533953974525466
+Logistic Regression,43,val,log_loss,0.2527187538780392
+Logistic Regression,44,train,log_loss,0.25207800858414237
+Logistic Regression,44,val,log_loss,0.2512918348411632
+Logistic Regression,45,train,log_loss,0.25393061720258614
+Logistic Regression,45,val,log_loss,0.25315814785072843
+Logistic Regression,46,train,log_loss,0.2574085351404613
+Logistic Regression,46,val,log_loss,0.25624437866966926
+Logistic Regression,47,train,log_loss,0.2564038717037137
+Logistic Regression,47,val,log_loss,0.2560489078966263
+Logistic Regression,48,train,log_loss,0.25559048464251105
+Logistic Regression,48,val,log_loss,0.2511716853251496
+Logistic Regression,49,train,log_loss,0.25365682133103745
+Logistic Regression,49,val,log_loss,0.2516831262624244
+Logistic Regression,50,train,log_loss,0.25565761186928065
+Logistic Regression,50,val,log_loss,0.2528832567320825
+Logistic Regression,51,train,log_loss,0.2525649600222695
+Logistic Regression,51,val,log_loss,0.2521559978505782
+Logistic Regression,52,train,log_loss,0.25237733193781153
+Logistic Regression,52,val,log_loss,0.25172021674511547
+Logistic Regression,53,train,log_loss,0.25664967727710275
+Logistic Regression,53,val,log_loss,0.2550264820377832
+Logistic Regression,54,train,log_loss,0.2532145105702525
+Logistic Regression,54,val,log_loss,0.252473298063293
+Logistic Regression,55,train,log_loss,0.2525967884207883
+Logistic Regression,55,val,log_loss,0.25099013688775385
+Logistic Regression,56,train,log_loss,0.2521767652045495
+Logistic Regression,56,val,log_loss,0.2511362471905009
+Logistic Regression,57,train,log_loss,0.25068148631481185
+Logistic Regression,57,val,log_loss,0.24942746400939128
+Logistic Regression,58,train,log_loss,0.2529741446071671
+Logistic Regression,58,val,log_loss,0.25164404444718014
+Logistic Regression,59,train,log_loss,0.25030889662456307
+Logistic Regression,59,val,log_loss,0.25044702762259385
+Logistic Regression,60,train,log_loss,0.2513958478926661
+Logistic Regression,60,val,log_loss,0.2496811026405091
+Linear SVM,1,train,hinge_loss,1.5233078782175347
+Linear SVM,1,val,hinge_loss,1.1606237269769406
+Linear SVM,2,train,hinge_loss,0.9206260475187173
+Linear SVM,2,val,hinge_loss,0.7702412173563398
+Linear SVM,3,train,hinge_loss,0.7912786081634627
+Linear SVM,3,val,hinge_loss,0.6743089637075245
+Linear SVM,4,train,hinge_loss,0.5780922532581351
+Linear SVM,4,val,hinge_loss,0.5040901996520291
+Linear SVM,5,train,hinge_loss,0.6247959869122469
+Linear SVM,5,val,hinge_loss,0.5432642389114025
+Linear SVM,6,train,hinge_loss,0.6152120081756034
+Linear SVM,6,val,hinge_loss,0.46113358904993607
+Linear SVM,7,train,hinge_loss,0.4386259660387634
+Linear SVM,7,val,hinge_loss,0.37331177688565687
+Linear SVM,8,train,hinge_loss,0.4342093466351506
+Linear SVM,8,val,hinge_loss,0.35911312865871553
+Linear SVM,9,train,hinge_loss,0.39551962421688097
+Linear SVM,9,val,hinge_loss,0.35252604614058575
+Linear SVM,10,train,hinge_loss,0.3700483769894343
+Linear SVM,10,val,hinge_loss,0.3142984031531037
+Linear SVM,11,train,hinge_loss,0.40112184601982287
+Linear SVM,11,val,hinge_loss,0.3326377986777786
+Linear SVM,12,train,hinge_loss,0.36004797613550255
+Linear SVM,12,val,hinge_loss,0.3189727720244623
+Linear SVM,13,train,hinge_loss,0.33875794193397557
+Linear SVM,13,val,hinge_loss,0.2936478065094723
+Linear SVM,14,train,hinge_loss,0.31479146361396293
+Linear SVM,14,val,hinge_loss,0.2661686809976709
+Linear SVM,15,train,hinge_loss,0.3138360941754656
+Linear SVM,15,val,hinge_loss,0.26357598427602913
+Linear SVM,16,train,hinge_loss,0.3057016989693336
+Linear SVM,16,val,hinge_loss,0.26439154018508376
+Linear SVM,17,train,hinge_loss,0.3079059617870665
+Linear SVM,17,val,hinge_loss,0.28335627759937093
+Linear SVM,18,train,hinge_loss,0.3099672573907702
+Linear SVM,18,val,hinge_loss,0.3012409368136661
+Linear SVM,19,train,hinge_loss,0.2894578154845645
+Linear SVM,19,val,hinge_loss,0.24082493874659888
+Linear SVM,20,train,hinge_loss,0.2665947627928225
+Linear SVM,20,val,hinge_loss,0.24342461321496983
+Linear SVM,21,train,hinge_loss,0.2946692960172826
+Linear SVM,21,val,hinge_loss,0.2652090787239486
+Linear SVM,22,train,hinge_loss,0.31425387958707685
+Linear SVM,22,val,hinge_loss,0.2858900566975756
+Linear SVM,23,train,hinge_loss,0.28505185491566554
+Linear SVM,23,val,hinge_loss,0.2589964867764528
+Linear SVM,24,train,hinge_loss,0.26896713799875027
+Linear SVM,24,val,hinge_loss,0.24960468936176644
+Linear SVM,25,train,hinge_loss,0.3329532623569659
+Linear SVM,25,val,hinge_loss,0.32118295355530985
+Linear SVM,26,train,hinge_loss,0.27129290697112385
+Linear SVM,26,val,hinge_loss,0.2708783125556435
+Linear SVM,27,train,hinge_loss,0.2683958632677061
+Linear SVM,27,val,hinge_loss,0.2437177351835514
+Linear SVM,28,train,hinge_loss,0.25337597502162995
+Linear SVM,28,val,hinge_loss,0.22043877112145543
+Linear SVM,29,train,hinge_loss,0.2782124503149134
+Linear SVM,29,val,hinge_loss,0.2487601967707719
+Linear SVM,30,train,hinge_loss,0.2792028943970615
+Linear SVM,30,val,hinge_loss,0.2702354439656357
+Linear SVM,31,train,hinge_loss,0.2595417961484722
+Linear SVM,31,val,hinge_loss,0.25191966706483404
+Linear SVM,32,train,hinge_loss,0.25147330426197295
+Linear SVM,32,val,hinge_loss,0.23616031424842576
+Linear SVM,33,train,hinge_loss,0.2525703382835346
+Linear SVM,33,val,hinge_loss,0.23577042465638978
+Linear SVM,34,train,hinge_loss,0.2551790561681097
+Linear SVM,34,val,hinge_loss,0.23356053017619693
+Linear SVM,35,train,hinge_loss,0.260628194774467
+Linear SVM,35,val,hinge_loss,0.23967463363933253
+Linear SVM,36,train,hinge_loss,0.25866919712118813
+Linear SVM,36,val,hinge_loss,0.2512467977069088
+Linear SVM,37,train,hinge_loss,0.2497326047554065
+Linear SVM,37,val,hinge_loss,0.2295684733149979
+Linear SVM,38,train,hinge_loss,0.24651315631726076
+Linear SVM,38,val,hinge_loss,0.2298997165063128
+Linear SVM,39,train,hinge_loss,0.2488882271373737
+Linear SVM,39,val,hinge_loss,0.23016443783957985
+Linear SVM,40,train,hinge_loss,0.2624450554240748
+Linear SVM,40,val,hinge_loss,0.23572139755844085
+Linear SVM,41,train,hinge_loss,0.2490397176062136
+Linear SVM,41,val,hinge_loss,0.22505978363470913
+Linear SVM,42,train,hinge_loss,0.24264037587117013
+Linear SVM,42,val,hinge_loss,0.2268673883615168
+Linear SVM,43,train,hinge_loss,0.2473060238287071
+Linear SVM,43,val,hinge_loss,0.2306964623912724
+Linear SVM,44,train,hinge_loss,0.2538690495616347
+Linear SVM,44,val,hinge_loss,0.23709140942085546
+Linear SVM,45,train,hinge_loss,0.24788334835757314
+Linear SVM,45,val,hinge_loss,0.23495698274908774
+Linear SVM,46,train,hinge_loss,0.2468585838369697
+Linear SVM,46,val,hinge_loss,0.2335661443394663
+Linear SVM,47,train,hinge_loss,0.250145655166153
+Linear SVM,47,val,hinge_loss,0.23921358973754214
+Linear SVM,48,train,hinge_loss,0.24190351824624198
+Linear SVM,48,val,hinge_loss,0.21465337214541158
+Linear SVM,49,train,hinge_loss,0.245429186085679
+Linear SVM,49,val,hinge_loss,0.22360891343838507
+Linear SVM,50,train,hinge_loss,0.24475700369796288
+Linear SVM,50,val,hinge_loss,0.2247541085176924
+Linear SVM,51,train,hinge_loss,0.25719452792067543
+Linear SVM,51,val,hinge_loss,0.23967345290437658
+Linear SVM,52,train,hinge_loss,0.24109527430871547
+Linear SVM,52,val,hinge_loss,0.23170939585057002
+Linear SVM,53,train,hinge_loss,0.23962750052077167
+Linear SVM,53,val,hinge_loss,0.22148437755206246
+Linear SVM,54,train,hinge_loss,0.2401057853272927
+Linear SVM,54,val,hinge_loss,0.2221299545881517
+Linear SVM,55,train,hinge_loss,0.2401905485475884
+Linear SVM,55,val,hinge_loss,0.22417241792947143
+Linear SVM,56,train,hinge_loss,0.2374163935342132
+Linear SVM,56,val,hinge_loss,0.2222570892296827
+Linear SVM,57,train,hinge_loss,0.2343545645064858
+Linear SVM,57,val,hinge_loss,0.22122421761566352
+Linear SVM,58,train,hinge_loss,0.2380648441148836
+Linear SVM,58,val,hinge_loss,0.22432075282449407
+Linear SVM,59,train,hinge_loss,0.23691768388550705
+Linear SVM,59,val,hinge_loss,0.22302094834818267
+Linear SVM,60,train,hinge_loss,0.22975105174738583
+Linear SVM,60,val,hinge_loss,0.21408173623081922
+MLP,1,train,cross_entropy_like_loss,1.0424686667874998
+MLP,2,train,cross_entropy_like_loss,0.2944045239315585
+MLP,3,train,cross_entropy_like_loss,0.23393181900531243
+MLP,4,train,cross_entropy_like_loss,0.21868900083453677
+MLP,5,train,cross_entropy_like_loss,0.21121046523241063
+MLP,6,train,cross_entropy_like_loss,0.20544893671554684
+MLP,7,train,cross_entropy_like_loss,0.2020255018041305
+MLP,8,train,cross_entropy_like_loss,0.19917025977612346
+MLP,9,train,cross_entropy_like_loss,0.19631976450222055
+MLP,10,train,cross_entropy_like_loss,0.19427588538898027
+MLP,11,train,cross_entropy_like_loss,0.19453832976182797
+MLP,12,train,cross_entropy_like_loss,0.19081167957071757
+MLP,13,train,cross_entropy_like_loss,0.18926309186275914
+MLP,14,train,cross_entropy_like_loss,0.1904788322971127
+MLP,15,train,cross_entropy_like_loss,0.1877933906192497
+MLP,16,train,cross_entropy_like_loss,0.18663028570690035
+MLP,17,train,cross_entropy_like_loss,0.1867741139734769
+MLP,18,train,cross_entropy_like_loss,0.18615346524319332
+MLP,19,train,cross_entropy_like_loss,0.18473906687842764
+MLP,20,train,cross_entropy_like_loss,0.18309684245693303
+MLP,21,train,cross_entropy_like_loss,0.18292573316106017
+MLP,22,train,cross_entropy_like_loss,0.18312830669978114
+MLP,23,train,cross_entropy_like_loss,0.18283924447024535
+MLP,24,train,cross_entropy_like_loss,0.18153147900421746
+XGBoost,1,validation_0,mlogloss,1.691018066004328
+XGBoost,2,validation_0,mlogloss,1.577214937730424
+XGBoost,3,validation_0,mlogloss,1.4794878056209162
+XGBoost,4,validation_0,mlogloss,1.3936883075907396
+XGBoost,5,validation_0,mlogloss,1.3171305033918006
+XGBoost,6,validation_0,mlogloss,1.2480330285079653
+XGBoost,7,validation_0,mlogloss,1.1854479907500572
+XGBoost,8,validation_0,mlogloss,1.1281316616491783
+XGBoost,9,validation_0,mlogloss,1.0751505758929703
+XGBoost,10,validation_0,mlogloss,1.0264646210921862
+XGBoost,11,validation_0,mlogloss,0.9814286784010285
+XGBoost,12,validation_0,mlogloss,0.9394859997683997
+XGBoost,13,validation_0,mlogloss,0.8998816635976725
+XGBoost,14,validation_0,mlogloss,0.8634483904057297
+XGBoost,15,validation_0,mlogloss,0.8286255116677468
+XGBoost,16,validation_0,mlogloss,0.796273850157777
+XGBoost,17,validation_0,mlogloss,0.7658491639994099
+XGBoost,18,validation_0,mlogloss,0.7368440796083794
+XGBoost,19,validation_0,mlogloss,0.7099124568268637
+XGBoost,20,validation_0,mlogloss,0.6844357306344075
+XGBoost,21,validation_0,mlogloss,0.6602877151190852
+XGBoost,22,validation_0,mlogloss,0.6373837537531174
+XGBoost,23,validation_0,mlogloss,0.6155559097473638
+XGBoost,24,validation_0,mlogloss,0.5948843784323745
+XGBoost,25,validation_0,mlogloss,0.5752398774433949
+XGBoost,26,validation_0,mlogloss,0.5568137094057022
+XGBoost,27,validation_0,mlogloss,0.5392143444727436
+XGBoost,28,validation_0,mlogloss,0.5222762173964302
+XGBoost,29,validation_0,mlogloss,0.506780176715049
+XGBoost,30,validation_0,mlogloss,0.4915845178747433
+XGBoost,31,validation_0,mlogloss,0.47715243699518517
+XGBoost,32,validation_0,mlogloss,0.46326797093565336
+XGBoost,33,validation_0,mlogloss,0.45023920200196715
+XGBoost,34,validation_0,mlogloss,0.4378790234523385
+XGBoost,35,validation_0,mlogloss,0.4259499827178167
+XGBoost,36,validation_0,mlogloss,0.4146471142778268
+XGBoost,37,validation_0,mlogloss,0.4039569036776576
+XGBoost,38,validation_0,mlogloss,0.3936008626092776
+XGBoost,39,validation_0,mlogloss,0.3835870952972748
+XGBoost,40,validation_0,mlogloss,0.3742680160526124
+XGBoost,41,validation_0,mlogloss,0.365132863775537
+XGBoost,42,validation_0,mlogloss,0.3566708546067167
+XGBoost,43,validation_0,mlogloss,0.348802580305191
+XGBoost,44,validation_0,mlogloss,0.34088935198676495
+XGBoost,45,validation_0,mlogloss,0.33322834141735125
+XGBoost,46,validation_0,mlogloss,0.3259063045459271
+XGBoost,47,validation_0,mlogloss,0.3191441987354693
+XGBoost,48,validation_0,mlogloss,0.31246654315959727
+XGBoost,49,validation_0,mlogloss,0.3061032397259941
+XGBoost,50,validation_0,mlogloss,0.3001473564248856
+XGBoost,51,validation_0,mlogloss,0.2942523102088939
+XGBoost,52,validation_0,mlogloss,0.28877490982734744
+XGBoost,53,validation_0,mlogloss,0.28347288516023644
+XGBoost,54,validation_0,mlogloss,0.27827159194529566
+XGBoost,55,validation_0,mlogloss,0.27351850793698607
+XGBoost,56,validation_0,mlogloss,0.2687331644788198
+XGBoost,57,validation_0,mlogloss,0.26419331004785684
+XGBoost,58,validation_0,mlogloss,0.2598907677820328
+XGBoost,59,validation_0,mlogloss,0.25573561146877305
+XGBoost,60,validation_0,mlogloss,0.25171104235817454
+XGBoost,61,validation_0,mlogloss,0.24789535866719628
+XGBoost,62,validation_0,mlogloss,0.24421368103572774
+XGBoost,63,validation_0,mlogloss,0.24070337139862683
+XGBoost,64,validation_0,mlogloss,0.23726989718913205
+XGBoost,65,validation_0,mlogloss,0.23390626462336578
+XGBoost,66,validation_0,mlogloss,0.23077990886874164
+XGBoost,67,validation_0,mlogloss,0.22775222700295805
+XGBoost,68,validation_0,mlogloss,0.22482054523310635
+XGBoost,69,validation_0,mlogloss,0.22207620502495143
+XGBoost,70,validation_0,mlogloss,0.21934902156658778
+XGBoost,71,validation_0,mlogloss,0.21672958765215375
+XGBoost,72,validation_0,mlogloss,0.21409132487316904
+XGBoost,73,validation_0,mlogloss,0.21176980965809297
+XGBoost,74,validation_0,mlogloss,0.2093707678539087
+XGBoost,75,validation_0,mlogloss,0.2071211013555257
+XGBoost,76,validation_0,mlogloss,0.20494097506439862
+XGBoost,77,validation_0,mlogloss,0.20277377939643382
+XGBoost,78,validation_0,mlogloss,0.20080842644836286
+XGBoost,79,validation_0,mlogloss,0.19877475568395306
+XGBoost,80,validation_0,mlogloss,0.1967998689477047
+XGBoost,81,validation_0,mlogloss,0.19499466486085462
+XGBoost,82,validation_0,mlogloss,0.19317500696164813
+XGBoost,83,validation_0,mlogloss,0.1914433061697885
+XGBoost,84,validation_0,mlogloss,0.1898604923741439
+XGBoost,85,validation_0,mlogloss,0.18812649035937068
+XGBoost,86,validation_0,mlogloss,0.18660027753021935
+XGBoost,87,validation_0,mlogloss,0.18512041979404384
+XGBoost,88,validation_0,mlogloss,0.18362764161231832
+XGBoost,89,validation_0,mlogloss,0.1822122256037804
+XGBoost,90,validation_0,mlogloss,0.18082634407051215
+XGBoost,91,validation_0,mlogloss,0.17938394090310672
+XGBoost,92,validation_0,mlogloss,0.17805736836512082
+XGBoost,93,validation_0,mlogloss,0.17677266902582237
+XGBoost,94,validation_0,mlogloss,0.1755889620529814
+XGBoost,95,validation_0,mlogloss,0.1744570594502837
+XGBoost,96,validation_0,mlogloss,0.1733951488699704
+XGBoost,97,validation_0,mlogloss,0.17232330221824696
+XGBoost,98,validation_0,mlogloss,0.17125720673773956
+XGBoost,99,validation_0,mlogloss,0.17013987685307447
+XGBoost,100,validation_0,mlogloss,0.16905108349131015
+XGBoost,101,validation_0,mlogloss,0.16805880292909034
+XGBoost,102,validation_0,mlogloss,0.16713875076495088
+XGBoost,103,validation_0,mlogloss,0.16617956573819234
+XGBoost,104,validation_0,mlogloss,0.16524826078030339
+XGBoost,105,validation_0,mlogloss,0.1643652476115625
+XGBoost,106,validation_0,mlogloss,0.16347072765512008
+XGBoost,107,validation_0,mlogloss,0.16269556859148093
+XGBoost,108,validation_0,mlogloss,0.16188261604575924
+XGBoost,109,validation_0,mlogloss,0.161105511914825
+XGBoost,110,validation_0,mlogloss,0.1602875640875823
+XGBoost,111,validation_0,mlogloss,0.15949087701237086
+XGBoost,112,validation_0,mlogloss,0.15857625755245333
+XGBoost,113,validation_0,mlogloss,0.15779666245743393
+XGBoost,114,validation_0,mlogloss,0.15712479034787227
+XGBoost,115,validation_0,mlogloss,0.15644316519712018
+XGBoost,116,validation_0,mlogloss,0.15575186829259563
+XGBoost,117,validation_0,mlogloss,0.1550324666968977
+XGBoost,118,validation_0,mlogloss,0.1544234321934264
+XGBoost,119,validation_0,mlogloss,0.15378967976410463
+XGBoost,120,validation_0,mlogloss,0.15309059541116496
+XGBoost,121,validation_0,mlogloss,0.15247319951370938
+XGBoost,122,validation_0,mlogloss,0.1518375650607853
+XGBoost,123,validation_0,mlogloss,0.1512321462950002
+XGBoost,124,validation_0,mlogloss,0.1506078551349628
+XGBoost,125,validation_0,mlogloss,0.14992848011627022
+XGBoost,126,validation_0,mlogloss,0.14932512072304827
+XGBoost,127,validation_0,mlogloss,0.14867456342588758
+XGBoost,128,validation_0,mlogloss,0.14805582933123274
+XGBoost,129,validation_0,mlogloss,0.1474644317221654
+XGBoost,130,validation_0,mlogloss,0.14693057007313803
+XGBoost,131,validation_0,mlogloss,0.14647248809898747
+XGBoost,132,validation_0,mlogloss,0.14600849153478285
+XGBoost,133,validation_0,mlogloss,0.14543880592590339
+XGBoost,134,validation_0,mlogloss,0.14493568124247422
+XGBoost,135,validation_0,mlogloss,0.14426597724525106
+XGBoost,136,validation_0,mlogloss,0.1437484762412516
+XGBoost,137,validation_0,mlogloss,0.14325971593562384
+XGBoost,138,validation_0,mlogloss,0.14274905261283344
+XGBoost,139,validation_0,mlogloss,0.14218438348607346
+XGBoost,140,validation_0,mlogloss,0.14168074756263307
+XGBoost,141,validation_0,mlogloss,0.14114861993595806
+XGBoost,142,validation_0,mlogloss,0.1406782975685307
+XGBoost,143,validation_0,mlogloss,0.14011305984486266
+XGBoost,144,validation_0,mlogloss,0.13955807294572595
+XGBoost,145,validation_0,mlogloss,0.13911172936544647
+XGBoost,146,validation_0,mlogloss,0.13863061359237216
+XGBoost,147,validation_0,mlogloss,0.1381682513823439
+XGBoost,148,validation_0,mlogloss,0.13771726242882545
+XGBoost,149,validation_0,mlogloss,0.137333405047974
+XGBoost,150,validation_0,mlogloss,0.1369224666580153
+XGBoost,151,validation_0,mlogloss,0.13656706120538809
+XGBoost,152,validation_0,mlogloss,0.13606466849878554
+XGBoost,153,validation_0,mlogloss,0.13563294401027526
+XGBoost,154,validation_0,mlogloss,0.1352028247651404
+XGBoost,155,validation_0,mlogloss,0.13468456871018014
+XGBoost,156,validation_0,mlogloss,0.13430027554822718
+XGBoost,157,validation_0,mlogloss,0.13389936810698988
+XGBoost,158,validation_0,mlogloss,0.13350482808605024
+XGBoost,159,validation_0,mlogloss,0.13306822530164478
+XGBoost,160,validation_0,mlogloss,0.13270033013905577
+XGBoost,161,validation_0,mlogloss,0.13232225400241485
+XGBoost,162,validation_0,mlogloss,0.1319459884435671
+XGBoost,163,validation_0,mlogloss,0.13145706427687504
+XGBoost,164,validation_0,mlogloss,0.13110085996518345
+XGBoost,165,validation_0,mlogloss,0.13076156944203188
+XGBoost,166,validation_0,mlogloss,0.1303720364309271
+XGBoost,167,validation_0,mlogloss,0.13006820995434115
+XGBoost,168,validation_0,mlogloss,0.12974730530062517
+XGBoost,169,validation_0,mlogloss,0.12931851353707755
+XGBoost,170,validation_0,mlogloss,0.12895237881791255
+XGBoost,171,validation_0,mlogloss,0.12855483291062178
+XGBoost,172,validation_0,mlogloss,0.12817449956696178
+XGBoost,173,validation_0,mlogloss,0.12787483751964057
+XGBoost,174,validation_0,mlogloss,0.12753288566956283
+XGBoost,175,validation_0,mlogloss,0.1271550252432365
+XGBoost,176,validation_0,mlogloss,0.12686081781199254
+XGBoost,177,validation_0,mlogloss,0.12656652081312383
+XGBoost,178,validation_0,mlogloss,0.1262136073364077
+XGBoost,179,validation_0,mlogloss,0.12590743233068524
+XGBoost,180,validation_0,mlogloss,0.12557832585113782
+XGBoost,181,validation_0,mlogloss,0.1251729589180276
+XGBoost,182,validation_0,mlogloss,0.124810582674584
+XGBoost,183,validation_0,mlogloss,0.12451011553746737
+XGBoost,184,validation_0,mlogloss,0.12413808864850037
+XGBoost,185,validation_0,mlogloss,0.12375865819404144
+XGBoost,186,validation_0,mlogloss,0.12346498588184163
+XGBoost,187,validation_0,mlogloss,0.12317411243311198
+XGBoost,188,validation_0,mlogloss,0.12278404551497239
+XGBoost,189,validation_0,mlogloss,0.12235075012349954
+XGBoost,190,validation_0,mlogloss,0.12208953058993019
+XGBoost,191,validation_0,mlogloss,0.12172955960725461
+XGBoost,192,validation_0,mlogloss,0.12148471616549383
+XGBoost,193,validation_0,mlogloss,0.12115806823816473
+XGBoost,194,validation_0,mlogloss,0.12084307797544029
+XGBoost,195,validation_0,mlogloss,0.12038533752357697
+XGBoost,196,validation_0,mlogloss,0.11998426746795327
+XGBoost,197,validation_0,mlogloss,0.11961640304334893
+XGBoost,198,validation_0,mlogloss,0.11928372641432408
+XGBoost,199,validation_0,mlogloss,0.11901869743829398
+XGBoost,200,validation_0,mlogloss,0.11880076171080671
+XGBoost,1,validation_1,mlogloss,1.6866512831353044
+XGBoost,2,validation_1,mlogloss,1.5757294830429882
+XGBoost,3,validation_1,mlogloss,1.4793413101343553
+XGBoost,4,validation_1,mlogloss,1.394884674922572
+XGBoost,5,validation_1,mlogloss,1.3195156582479752
+XGBoost,6,validation_1,mlogloss,1.2513789281901733
+XGBoost,7,validation_1,mlogloss,1.1892114197579506
+XGBoost,8,validation_1,mlogloss,1.1333331475898611
+XGBoost,9,validation_1,mlogloss,1.0810638747130312
+XGBoost,10,validation_1,mlogloss,1.0334163739137854
+XGBoost,11,validation_1,mlogloss,0.9890163785099718
+XGBoost,12,validation_1,mlogloss,0.9480862477662922
+XGBoost,13,validation_1,mlogloss,0.9092349094997624
+XGBoost,14,validation_1,mlogloss,0.8732844699995554
+XGBoost,15,validation_1,mlogloss,0.8388316306522712
+XGBoost,16,validation_1,mlogloss,0.8072122319946488
+XGBoost,17,validation_1,mlogloss,0.7773848646379172
+XGBoost,18,validation_1,mlogloss,0.7491055556421556
+XGBoost,19,validation_1,mlogloss,0.7226746567948801
+XGBoost,20,validation_1,mlogloss,0.6975355436603671
+XGBoost,21,validation_1,mlogloss,0.6738907860311297
+XGBoost,22,validation_1,mlogloss,0.6512343398092761
+XGBoost,23,validation_1,mlogloss,0.6299601658990671
+XGBoost,24,validation_1,mlogloss,0.609343883654057
+XGBoost,25,validation_1,mlogloss,0.5905035853651425
+XGBoost,26,validation_1,mlogloss,0.5724945787863105
+XGBoost,27,validation_1,mlogloss,0.5552426971323683
+XGBoost,28,validation_1,mlogloss,0.5384871503690835
+XGBoost,29,validation_1,mlogloss,0.5233637751387771
+XGBoost,30,validation_1,mlogloss,0.5085732572018525
+XGBoost,31,validation_1,mlogloss,0.4947185658289046
+XGBoost,32,validation_1,mlogloss,0.48129972027865003
+XGBoost,33,validation_1,mlogloss,0.4684278281777544
+XGBoost,34,validation_1,mlogloss,0.4566283558440722
+XGBoost,35,validation_1,mlogloss,0.4451977883941966
+XGBoost,36,validation_1,mlogloss,0.4342949679805866
+XGBoost,37,validation_1,mlogloss,0.4237588446894308
+XGBoost,38,validation_1,mlogloss,0.4139154614588908
+XGBoost,39,validation_1,mlogloss,0.4044507066453043
+XGBoost,40,validation_1,mlogloss,0.3956111671310402
+XGBoost,41,validation_1,mlogloss,0.38679933869891814
+XGBoost,42,validation_1,mlogloss,0.3788011025280623
+XGBoost,43,validation_1,mlogloss,0.37135850471660836
+XGBoost,44,validation_1,mlogloss,0.36380799243028905
+XGBoost,45,validation_1,mlogloss,0.35626537580134343
+XGBoost,46,validation_1,mlogloss,0.3493086922673181
+XGBoost,47,validation_1,mlogloss,0.34277236483211243
+XGBoost,48,validation_1,mlogloss,0.33621712000217807
+XGBoost,49,validation_1,mlogloss,0.33023584886843305
+XGBoost,50,validation_1,mlogloss,0.3245185761371629
+XGBoost,51,validation_1,mlogloss,0.3191305744643555
+XGBoost,52,validation_1,mlogloss,0.31394746537861684
+XGBoost,53,validation_1,mlogloss,0.30893306658722863
+XGBoost,54,validation_1,mlogloss,0.3040213005668425
+XGBoost,55,validation_1,mlogloss,0.29962455724112264
+XGBoost,56,validation_1,mlogloss,0.29525899699022795
+XGBoost,57,validation_1,mlogloss,0.29088671549148
+XGBoost,58,validation_1,mlogloss,0.2867549612299548
+XGBoost,59,validation_1,mlogloss,0.2829861800561769
+XGBoost,60,validation_1,mlogloss,0.27921091153963284
+XGBoost,61,validation_1,mlogloss,0.2757580119897988
+XGBoost,62,validation_1,mlogloss,0.27233706186812456
+XGBoost,63,validation_1,mlogloss,0.26916014539449856
+XGBoost,64,validation_1,mlogloss,0.2659265292530469
+XGBoost,65,validation_1,mlogloss,0.2628595076927275
+XGBoost,66,validation_1,mlogloss,0.2600025558967279
+XGBoost,67,validation_1,mlogloss,0.2572341924000866
+XGBoost,68,validation_1,mlogloss,0.2544322904910126
+XGBoost,69,validation_1,mlogloss,0.25192953826224884
+XGBoost,70,validation_1,mlogloss,0.24949608094652848
+XGBoost,71,validation_1,mlogloss,0.2471334448370477
+XGBoost,72,validation_1,mlogloss,0.2449047418080309
+XGBoost,73,validation_1,mlogloss,0.24277774782460004
+XGBoost,74,validation_1,mlogloss,0.24063531016348774
+XGBoost,75,validation_1,mlogloss,0.23861949350173242
+XGBoost,76,validation_1,mlogloss,0.23677263032083568
+XGBoost,77,validation_1,mlogloss,0.23488170188127752
+XGBoost,78,validation_1,mlogloss,0.23314333872201715
+XGBoost,79,validation_1,mlogloss,0.23147077782255193
+XGBoost,80,validation_1,mlogloss,0.22977107045750267
+XGBoost,81,validation_1,mlogloss,0.22831059079105623
+XGBoost,82,validation_1,mlogloss,0.22686508247309378
+XGBoost,83,validation_1,mlogloss,0.22550298410599862
+XGBoost,84,validation_1,mlogloss,0.22420197211858645
+XGBoost,85,validation_1,mlogloss,0.22278442640347046
+XGBoost,86,validation_1,mlogloss,0.22156537477958618
+XGBoost,87,validation_1,mlogloss,0.22035488906249392
+XGBoost,88,validation_1,mlogloss,0.2191584541945654
+XGBoost,89,validation_1,mlogloss,0.21787387617527001
+XGBoost,90,validation_1,mlogloss,0.21666119126333358
+XGBoost,91,validation_1,mlogloss,0.21560743637175564
+XGBoost,92,validation_1,mlogloss,0.2146228828744682
+XGBoost,93,validation_1,mlogloss,0.2135687820688056
+XGBoost,94,validation_1,mlogloss,0.2125599597219126
+XGBoost,95,validation_1,mlogloss,0.21170994377630722
+XGBoost,96,validation_1,mlogloss,0.2110636762281812
+XGBoost,97,validation_1,mlogloss,0.21023669149021396
+XGBoost,98,validation_1,mlogloss,0.2094365297951518
+XGBoost,99,validation_1,mlogloss,0.20852024404853362
+XGBoost,100,validation_1,mlogloss,0.20766891342668664
+XGBoost,101,validation_1,mlogloss,0.20707584093943648
+XGBoost,102,validation_1,mlogloss,0.20633776132542841
+XGBoost,103,validation_1,mlogloss,0.2057327445950456
+XGBoost,104,validation_1,mlogloss,0.20498683697349754
+XGBoost,105,validation_1,mlogloss,0.2044010081272448
+XGBoost,106,validation_1,mlogloss,0.20383395204485105
+XGBoost,107,validation_1,mlogloss,0.20332156187276001
+XGBoost,108,validation_1,mlogloss,0.20288118291590929
+XGBoost,109,validation_1,mlogloss,0.20234668968451425
+XGBoost,110,validation_1,mlogloss,0.2017998592132936
+XGBoost,111,validation_1,mlogloss,0.20113804430611648
+XGBoost,112,validation_1,mlogloss,0.20077391979357181
+XGBoost,113,validation_1,mlogloss,0.200280972055015
+XGBoost,114,validation_1,mlogloss,0.1996475883953843
+XGBoost,115,validation_1,mlogloss,0.1993827003955913
+XGBoost,116,validation_1,mlogloss,0.19894310303928459
+XGBoost,117,validation_1,mlogloss,0.19860423978144315
+XGBoost,118,validation_1,mlogloss,0.19812425647591916
+XGBoost,119,validation_1,mlogloss,0.1976175445972706
+XGBoost,120,validation_1,mlogloss,0.19721809334696203
+XGBoost,121,validation_1,mlogloss,0.19685210291546532
+XGBoost,122,validation_1,mlogloss,0.19625110469558696
+XGBoost,123,validation_1,mlogloss,0.1961142144324265
+XGBoost,124,validation_1,mlogloss,0.19573744149766614
+XGBoost,125,validation_1,mlogloss,0.19544279351764798
+XGBoost,126,validation_1,mlogloss,0.19527354044476752
+XGBoost,127,validation_1,mlogloss,0.1950869703526749
+XGBoost,128,validation_1,mlogloss,0.19471844993206744
+XGBoost,129,validation_1,mlogloss,0.1944948647661465
+XGBoost,130,validation_1,mlogloss,0.19424888485079492
+XGBoost,131,validation_1,mlogloss,0.1941663470994211
+XGBoost,132,validation_1,mlogloss,0.19383420552933933
+XGBoost,133,validation_1,mlogloss,0.19361570025911748
+XGBoost,134,validation_1,mlogloss,0.19338701190579055
+XGBoost,135,validation_1,mlogloss,0.1932157954647404
+XGBoost,136,validation_1,mlogloss,0.1930635244460775
+XGBoost,137,validation_1,mlogloss,0.19271740385257924
+XGBoost,138,validation_1,mlogloss,0.1925040528208637
+XGBoost,139,validation_1,mlogloss,0.19245061577514158
+XGBoost,140,validation_1,mlogloss,0.19246428976362293
+XGBoost,141,validation_1,mlogloss,0.19230444915177827
+XGBoost,142,validation_1,mlogloss,0.19212360732822936
+XGBoost,143,validation_1,mlogloss,0.1918773127565231
+XGBoost,144,validation_1,mlogloss,0.19170962745232512
+XGBoost,145,validation_1,mlogloss,0.19157283335599878
+XGBoost,146,validation_1,mlogloss,0.19154976883110797
+XGBoost,147,validation_1,mlogloss,0.19134722881066824
+XGBoost,148,validation_1,mlogloss,0.19100080128113028
+XGBoost,149,validation_1,mlogloss,0.19073318726455402
+XGBoost,150,validation_1,mlogloss,0.19075578785157102
+XGBoost,151,validation_1,mlogloss,0.1906820376500945
+XGBoost,152,validation_1,mlogloss,0.19051643144394637
+XGBoost,153,validation_1,mlogloss,0.1905371474872883
+XGBoost,154,validation_1,mlogloss,0.19026188676469527
+XGBoost,155,validation_1,mlogloss,0.19028416107076482
+XGBoost,156,validation_1,mlogloss,0.19018682261494022
+XGBoost,157,validation_1,mlogloss,0.18997494891146233
+XGBoost,158,validation_1,mlogloss,0.18990192006944673
+XGBoost,159,validation_1,mlogloss,0.18993739893429365
+XGBoost,160,validation_1,mlogloss,0.18972146339920565
+XGBoost,161,validation_1,mlogloss,0.1896123933797196
+XGBoost,162,validation_1,mlogloss,0.1895856367123888
+XGBoost,163,validation_1,mlogloss,0.1893613318311681
+XGBoost,164,validation_1,mlogloss,0.18943519496751995
+XGBoost,165,validation_1,mlogloss,0.189388081473651
+XGBoost,166,validation_1,mlogloss,0.18914915176672667
+XGBoost,167,validation_1,mlogloss,0.1890739846979624
+XGBoost,168,validation_1,mlogloss,0.18899504911675136
+XGBoost,169,validation_1,mlogloss,0.1889879490311431
+XGBoost,170,validation_1,mlogloss,0.18895473194392584
+XGBoost,171,validation_1,mlogloss,0.1888292388829424
+XGBoost,172,validation_1,mlogloss,0.1888019247089444
+XGBoost,173,validation_1,mlogloss,0.18862151428661292
+XGBoost,174,validation_1,mlogloss,0.18864352262001408
+XGBoost,175,validation_1,mlogloss,0.1884221860951569
+XGBoost,176,validation_1,mlogloss,0.1882537024128237
+XGBoost,177,validation_1,mlogloss,0.1882217303555391
+XGBoost,178,validation_1,mlogloss,0.1881138510136857
+XGBoost,179,validation_1,mlogloss,0.1879627524276002
+XGBoost,180,validation_1,mlogloss,0.18792532523493327
+XGBoost,181,validation_1,mlogloss,0.18795854363772146
+XGBoost,182,validation_1,mlogloss,0.18798171859092833
+XGBoost,183,validation_1,mlogloss,0.18793452745754655
+XGBoost,184,validation_1,mlogloss,0.1879258416091374
+XGBoost,185,validation_1,mlogloss,0.187848771034267
+XGBoost,186,validation_1,mlogloss,0.18781662327519175
+XGBoost,187,validation_1,mlogloss,0.18772339075483982
+XGBoost,188,validation_1,mlogloss,0.18753411900580522
+XGBoost,189,validation_1,mlogloss,0.1875151186087238
+XGBoost,190,validation_1,mlogloss,0.18750820160319173
+XGBoost,191,validation_1,mlogloss,0.18748612245764312
+XGBoost,192,validation_1,mlogloss,0.18750408832923252
+XGBoost,193,validation_1,mlogloss,0.18743462971459698
+XGBoost,194,validation_1,mlogloss,0.18742969090039666
+XGBoost,195,validation_1,mlogloss,0.18734922006101581
+XGBoost,196,validation_1,mlogloss,0.1875148938854955
+XGBoost,197,validation_1,mlogloss,0.1874875603032398
+XGBoost,198,validation_1,mlogloss,0.18740965764289935
+XGBoost,199,validation_1,mlogloss,0.18733075621428796
+XGBoost,200,validation_1,mlogloss,0.1873287224584503

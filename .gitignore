@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+.env
+.venv/
+venv/
+
+.DS_Store
+Thumbs.db
+
+results/logs/
+
+# 训练模型文件可以选择不上传，避免仓库过大
+saved_models/*.pkl
+
+# 如果需要复现，可以保留 data/raw；
+# 如果数据文件过大，可以取消下面几行注释。
+# data/raw/
+# data/processed/
+# data/noise/
