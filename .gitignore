@@ -1,21 +1,29 @@
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.py[cod]
 .ipynb_checkpoints/
+.pytest_cache/
+.mypy_cache/
 
 .env
 .venv/
 venv/
+.python-version
 
 .DS_Store
 Thumbs.db
+.vscode/
+.idea/
 
 results/logs/
+reports/
+data/noise/
 
-# 训练模型文件可以选择不上传，避免仓库过大
-saved_models/*.pkl
+# Trained model artifacts
+saved_models/
 
-# 如果需要复现，可以保留 data/raw；
-# 如果数据文件过大，可以取消下面几行注释。
+# Uncomment these if you want a code-only repository
 # data/raw/
 # data/processed/
-# data/noise/
