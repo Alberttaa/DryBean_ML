@@ -321,13 +321,9 @@ python -m streamlit run app/app.py
 ---
 
 ## 10. GitHub 展示
-
-项目上传 GitHub 后，可通过仓库首页 README 查看项目说明、运行方式和主要实验结果。
-
 GitHub 仓库链接：
-
 ```text
-TODO：在这里填写你的 GitHub 仓库链接
+TODO：github.com/Alberttaa/DryBean_ML
 ```
 ## 11. 项目总结
 
